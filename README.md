@@ -1,4 +1,4 @@
- Digital-Clock
+
 ⏰ Digital Clock (24-Hour / 12-Hour Toggle)
 
 A simple digital clock built with HTML, CSS, and JavaScript.
